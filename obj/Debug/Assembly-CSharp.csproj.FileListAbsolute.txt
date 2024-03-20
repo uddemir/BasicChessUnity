@@ -1,0 +1,2 @@
+D:\12 Stone Game Project\Satranç Yapıyok\Satranç\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\12 Stone Game Project\Satranç Yapıyok\Satranç\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
