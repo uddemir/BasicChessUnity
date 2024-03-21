@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{3A0D5DD9-689F-762F-4012-2A721DAA45FD}</ProjectGuid>
+    <ProjectGuid>{AC7E8FB8-3C9D-0351-0806-08E1F588EF51}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -65,9 +65,9 @@
     <Compile Include="Assets\Scripts\ChessMan.cs" />
     <Compile Include="Assets\Scripts\King.cs" />
     <Compile Include="Assets\Scripts\Pawns.cs" />
+    <Compile Include="Assets\Free Low Poly Chess Set\Example\Scripts\CameraRotate.cs" />
     <Compile Include="Assets\Scripts\Rooks.cs" />
     <Compile Include="Assets\Scripts\BoardManager.cs" />
-    <Compile Include="Assets\Free Low Poly Chess Set\Example\Scripts\CameraRotate.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Free Low Poly Chess Set\README.txt" />
